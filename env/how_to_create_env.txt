@@ -1,13 +1,14 @@
 Create the env once, reuse it over all the exercises 
 
 ## Using Conda:
-conda create --name wrangling python=3.9
 conda env create -f environment.yaml
+python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
 
-python -m ipykernel install --user --name=wrangling
 
-## Using pip:
+## If you prefer using pip:
 pip install -r requirements.txt
+python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
+
 
 ## Deepnote :
 copy the requirements.txt to /root/work/ and run pip install -r requirements.txt
