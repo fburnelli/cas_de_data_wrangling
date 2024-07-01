@@ -1,4 +1,5 @@
 pandas==2.2.2
 jupyterlab
 ipykernel
+pyarrow==14.0.2
 
