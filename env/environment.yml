@@ -8,4 +8,6 @@ dependencies:
   - jupyterlab
   - ipykernel
   - pyarrow=14.0.2
+  - ydata-profiling=4.8.3 
+  - ipywidgets=8.1.3 
 
