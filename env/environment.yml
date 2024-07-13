@@ -13,3 +13,7 @@ dependencies:
   - scikit-learn=1.5.1
   - missingno=0.5.2
   - thefuzz=0.22.1
+  - great_expectations=0.18.18
+  - pip
+  - pip:
+    - anonymizedf==1.0.1
