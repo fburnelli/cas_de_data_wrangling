@@ -14,6 +14,7 @@ dependencies:
   - missingno=0.5.2
   - thefuzz=0.22.1
   - great_expectations=0.18.18
+  - Faker=26.0.0
   - pip
   - pip:
     - anonymizedf==1.0.1
