@@ -10,3 +10,4 @@ thefuzz==0.22.1
 anonymizedf==1.0.1
 great_expectations==0.18.18
 Faker==26.0.0
+diffprivlib==0.6.4

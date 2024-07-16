@@ -15,6 +15,7 @@ dependencies:
   - thefuzz=0.22.1
   - great_expectations=0.18.18
   - Faker=26.0.0
+  - diffprivlib=0.6.4
   - pip
   - pip:
     - anonymizedf==1.0.1
