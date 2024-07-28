@@ -1,0 +1,14 @@
+name: wrangling_docs 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - ipykernel
+  - easyocr=1.7.1 
+  - camelot-py=0.11.0
+  - wordcloud=1.9.3
+  - pip
+  - pip:
+    - PyMuPDF==1.24.9
