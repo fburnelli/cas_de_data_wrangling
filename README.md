@@ -10,3 +10,4 @@ CAS Data Engineering - FHNW - Data Wrangling
 - data
 - env: create the environment for python
 - exercise: exercise during the class
+#test
